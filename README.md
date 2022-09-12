@@ -1,1 +1,1 @@
-# Java-waleet-app
+# Java-wallet-app
